@@ -18,5 +18,6 @@ https://geeeeeeeek.github.io/fangdai/
 
 ## 效果参考
 
+- [房屋利率计算器](http://calculator.fktool.com)
 - [fangdai-eyg](https://fangdai-eyg.pages.dev/)
 - [计算器-vercel](https://fangdai.vercel.app/)
